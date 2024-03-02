@@ -42,7 +42,7 @@ This is a temporary script file.
 #     print("Sizning balansingiz:" , hisob ," Megabayitingiz:", mb , ", Daqiqangiz:" , daqiqa , ", Smslaringiz:" , sms)
 # else:
     
-#     print("hisobingizda mablag yetarli emas")
+#     print("hisobingizda mablag yetarli emasmi yo yetadimi?")
 
 #############
 
